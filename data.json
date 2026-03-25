@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Python Basics",
+    "slug": "python",
+    "category": "coding",
+    "tags": ["python", "basics"],
+    "desc":"hi",
+    "imgurl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5"
+  },
+  {
+    "title": "JavaScript",
+    "slug": "javascript",
+    "category": "coding",
+    "tags": ["javascript", "js", "web"],
+    "imgurl": "https://images.unsplash.com/photo-1627398242454-45a1465c2479"
+  },
+  {
+    "title": "Git Version Control",
+    "slug": "git",
+    "category": "tools",
+    "tags": ["git", "version-control"],
+    "imgurl": "https://images.unsplash.com/photo-1556075798-4825dfaaf498"
+  },
+  {
+    "title": "Docker",
+    "slug": "docker",
+    "category": "devops",
+    "tags": ["docker", "containers"],
+    "imgurl": "https://images.unsplash.com/photo-1605745341112-85968b19335b"
+  },
+  {
+    "title": "SQL Queries",
+    "slug": "sql",
+    "category": "database",
+    "tags": ["sql", "database", "queries"],
+    "imgurl": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d"
+  }
+]
